@@ -1,0 +1,13 @@
+@font-face {
+font-family: "FiraSans";
+src: url("FiraSans.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+
+@font-face {
+font-family: "FiraSansBold";
+src: url("FiraSansBold.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
